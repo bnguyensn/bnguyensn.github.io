@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #212121;
+}
+
+p {
+  color: #424242;
+}
+
+@media (min-width: 600px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+.main {
+  margin: 0 auto;
+
+  max-width: 720px;
+  width: 100vw;
+
+  padding: 0 2rem;
+}
+
+.end {
+  margin-top: 2rem;
+  color: #212121;
+  text-align: right;
+}
