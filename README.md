@@ -1,2 +1,3 @@
 # bnguyensn.github.io
-My Github personal page
+
+My GitHub Pages page
